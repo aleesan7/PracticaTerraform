@@ -32,6 +32,19 @@ resource "google_compute_instance" "default" {
     }
 
     metadata = {
-        "ssh" = ""
+        ssh-keys = "ka_sa:${file("~/.ssh/id_rsa.pub")}"
     }
+}
+
+resource "google_compute_firewall" "default" {
+  name = "practica11-python5000"
+  network = "default"
+  allow {
+    protocol = "tcp"
+    ports = [5000]
+  }
+}
+
+output "ip" {
+  value = google_compute_instance.default.network_interface.0.access_config.0.nat_ip
 }
