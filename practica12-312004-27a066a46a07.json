@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "practica12-312004",
+  "private_key_id": "27a066a46a071870e6efe4daf5fecdd144896daa",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDoeQmwGZF11Lnz\neUuZNl18yS8e0r/FXR53bIFqoiY/AscAu6c4RW+l4AoBYLFme4Gt7pZFJya/DG0G\nhxEoX6nYm/MXw6KuRFDiFstcNj+fBOs18IE+lEbhCcKy+cgW3aW72AgZnxe/f9Jy\nFnMNLRvQ8zMXHgXD9UzkNxy3VaG10Pvrax8qGD0QD6IWAQmjTZX8/AA1qP1/xgt1\nCRlTOj1YtLXmy8h1vEw20pXvNtVm13DE8Z84OzhdKZNaZuLjyqgKH8HwLxDMpqVw\nTMiYu6tS85Sllh57BKpBfdvMNnrfROONAhxfkeSGsneXRkAiOJhxdGxY+O6UEUqx\nPSuWwtOXAgMBAAECggEAPTeyb2csQOU12oG0gLIqSDQKbol86pIs9bHjGpt8itdG\nZFEGJfFTB1FKETbPQHeBnLXZaHh44ZJ6G1/yCrm2Vk4q47Um39Epo3/xKWU3t75p\n2hhtUHdnetdBKDRSloLjo+WtrGGStWEJn/V9cpjQXGPOrmW/iuzLxMUmkLjCDshr\nLafULkSwIpxBpNYm2rsuSdTMsM1tvwNlre7q1GKlM0T9PiwbKc/Uf12WFk/DQsyE\n/DprztUcWGoR/uyOPrT8vR4GH2WYpMv9wqSANwQB3Zy/OU4tV3l5TKZdpmhaO9TY\ncHyKMBiwQ+TTkk8MFwvbZlN6lc6sSYQi1Q5M6wW8gQKBgQD4TPI7XiN6VHqHTpWf\nQPW8Ij/QLMWJOgBXVPm0+1SKxKzwNq06UllybfMnOhoVWRZ44LYpOuGbKKjoEMM6\nbt/+dSThy23km1FeYnx+8M2ZAK7xwEb6x9AUnjhm6oPZkgTkSgUMt3JP4xmgYZve\nkqQdv0zR8zaqmB5yNyYGe7HcdwKBgQDvrnKxF/sS54sxIcoeVWDECKx8X/XmMFXg\nfOkFTKGljjZ2Cx5ySCEaaYVAbYbvqVzQe20YC0e1CPlwYhO5YMir+8QmhfL7zKHu\nCtfPfiesLqDjt94Y2M/DYhE8zHxMsAbDwj9Ez6/J2o317Z+5fl+qKToDV3hc17fr\nxdCB2ycp4QKBgQCz0dXjlMuQvjl2YD0PdlYAh7U7KBFuziiNFqc4oIObc8/ir1ZI\n1Hae3m2nzPYy26/gnqyNs2zLl2irl+grGzzw5RluxIqzcqA9AIo0zGO5GLuZrKw6\n1hYluGgUcGZIXO1Z/xklGn2YyVk3wzjEueJNAMu7iK3gYgY6pSHOtCodBQKBgCpR\nP5i65i5xSScUky4F3v7dlS6kdrL8p7zp8O5pmES1tjHjRq3gxE94f/lfHSrlWSjK\nEfnjy/ZPrlLETj01tFiBLCGtFriUaaawrWfKG1EQLoHmLcVvSkdx4h8871lO3vLj\nMe6BSMU33EamfMPwZw2RF9gNMogZ4jQzidvTiLehAoGAW1Hqt3NAOo8JnspaE/Oc\nVw5FL4AIbdXNFUrgU8oTZRxqDhQDTm+g/6mbeCuKr8ea4eSSOit6gvvSBJTNvHBT\nPJPho2mYKZwBX/MwEIXpfoZqVZ1jCklZMCjQJ96aDnl4x3MVsDO8z2DXGtM5er/N\nCO4jJt1EYXl2cEvU/ezklJk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "practica12terraform@practica12-312004.iam.gserviceaccount.com",
+  "client_id": "117279779985242722916",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/practica12terraform%40practica12-312004.iam.gserviceaccount.com"
+}
